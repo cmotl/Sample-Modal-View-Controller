@@ -1,0 +1,243 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ModalViewControllerExampleAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {985, 433}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 589}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ModalViewControllerExampleAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1118}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 864}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ModalViewControllerExample */ = {
+		activeExec = 0;
+		executables = (
+			8295882912499A330002FE70 /* ModalViewControllerExample */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ModalViewControllerExampleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 433}}";
+			sepNavSelRange = "{252, 0}";
+			sepNavVisRange = "{0, 411}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ModalViewControllerExampleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1223, 1261}}";
+			sepNavSelRange = "{889, 0}";
+			sepNavVisRange = "{368, 1368}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8295882912499A330002FE70 /* ModalViewControllerExample */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ModalViewControllerExample */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ModalViewControllerExample */,
+		);
+		codeSenseManager = 8295883B12499A4A0002FE70 /* Code sense */;
+		executables = (
+			8295882912499A330002FE70 /* ModalViewControllerExample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					729,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 306898281;
+			PBXWorkspaceStateSaveDate = 306898281;
+		};
+		perUserProjectItems = {
+			829588841249A43C0002FE70 = 829588841249A43C0002FE70 /* PBXTextBookmark */;
+			829588851249A43C0002FE70 = 829588851249A43C0002FE70 /* PBXTextBookmark */;
+			829588861249A43C0002FE70 = 829588861249A43C0002FE70 /* PBXTextBookmark */;
+			829588961249A5390002FE70 = 829588961249A5390002FE70 /* PBXTextBookmark */;
+			829588981249A5390002FE70 = 829588981249A5390002FE70 /* PBXTextBookmark */;
+			829588A91249A8B00002FE70 = 829588A91249A8B00002FE70 /* PBXTextBookmark */;
+			829588AA1249A8B00002FE70 = 829588AA1249A8B00002FE70 /* PBXTextBookmark */;
+			829588AC1249A8C40002FE70 = 829588AC1249A8C40002FE70 /* PBXTextBookmark */;
+			82D3E920124AE57400DFFF9A /* PBXTextBookmark */ = 82D3E920124AE57400DFFF9A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8295883A12499A4A0002FE70 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8295882912499A330002FE70 /* ModalViewControllerExample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ModalViewControllerExample;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8295883A12499A4A0002FE70 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8295883B12499A4A0002FE70 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8295884512499C1E0002FE70 /* SampleModalViewControllerDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {985, 433}}";
+			sepNavSelRange = "{281, 177}";
+			sepNavVisRange = "{0, 465}";
+			sepNavWindowFrame = "{{15, 252}, {855, 771}}";
+		};
+	};
+	8295885512499FBF0002FE70 /* SampleModalViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 433}}";
+			sepNavSelRange = "{396, 0}";
+			sepNavVisRange = "{0, 646}";
+		};
+	};
+	8295885612499FBF0002FE70 /* SampleModalViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 962}}";
+			sepNavSelRange = "{324, 0}";
+			sepNavVisRange = "{164, 721}";
+		};
+	};
+	829588841249A43C0002FE70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ModalViewControllerExampleAppDelegate.m */;
+		name = "ModalViewControllerExampleAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 864;
+		vrLoc = 0;
+	};
+	829588851249A43C0002FE70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ModalViewControllerExampleAppDelegate.h */;
+		name = "ModalViewControllerExampleAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 589;
+		vrLoc = 0;
+	};
+	829588861249A43C0002FE70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8295884512499C1E0002FE70 /* SampleModalViewControllerDelegate.h */;
+		name = "SampleModalViewControllerDelegate.h: 15";
+		rLen = 177;
+		rLoc = 281;
+		rType = 0;
+		vrLen = 465;
+		vrLoc = 0;
+	};
+	829588961249A5390002FE70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8295885512499FBF0002FE70 /* SampleModalViewController.h */;
+		name = "SampleModalViewController.h: 16";
+		rLen = 0;
+		rLoc = 396;
+		rType = 0;
+		vrLen = 646;
+		vrLoc = 0;
+	};
+	829588981249A5390002FE70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ModalViewControllerExampleViewController.h */;
+		name = "ModalViewControllerExampleViewController.h: 10";
+		rLen = 0;
+		rLoc = 252;
+		rType = 0;
+		vrLen = 411;
+		vrLoc = 0;
+	};
+	829588A91249A8B00002FE70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ModalViewControllerExampleViewController.m */;
+		name = "ModalViewControllerExampleViewController.m: 24";
+		rLen = 0;
+		rLoc = 889;
+		rType = 0;
+		vrLen = 1368;
+		vrLoc = 368;
+	};
+	829588AA1249A8B00002FE70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8295885612499FBF0002FE70 /* SampleModalViewController.m */;
+		name = "SampleModalViewController.m: 27";
+		rLen = 0;
+		rLoc = 490;
+		rType = 0;
+		vrLen = 712;
+		vrLoc = 207;
+	};
+	829588AC1249A8C40002FE70 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8295885612499FBF0002FE70 /* SampleModalViewController.m */;
+		name = "SampleModalViewController.m: 23";
+		rLen = 0;
+		rLoc = 406;
+		rType = 0;
+		vrLen = 837;
+		vrLoc = 164;
+	};
+	82D3E920124AE57400DFFF9A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8295885612499FBF0002FE70 /* SampleModalViewController.m */;
+		name = "SampleModalViewController.m: 18";
+		rLen = 0;
+		rLoc = 324;
+		rType = 0;
+		vrLen = 721;
+		vrLoc = 164;
+	};
+}
