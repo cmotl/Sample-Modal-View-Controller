@@ -1,256 +1,0 @@
-TModalViewControllerExample
-v7
-r0
-t306813546.335651
-cCheck dependencies
-cProcessInfoPlistFile "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/Info.plist" ModalViewControllerExample-Info.plist
-cCompileXIB "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/MainWindow.xib"
-cCompileXIB "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/ModalViewControllerExampleViewController.xib"
-cProcessPCH /var/folders/Cf/Cfei18bhGm0FSyGBKg3EvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ModalViewControllerExample_Prefix-cjtvzdgfthrbtjekxkkkivntjarm/ModalViewControllerExample_Prefix.pch.gch ModalViewControllerExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/Objects-normal/i386/main.o "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/Objects-normal/i386/ModalViewControllerExampleAppDelegate.o "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/Classes/ModalViewControllerExampleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/Objects-normal/i386/ModalViewControllerExampleViewController.o "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/Classes/ModalViewControllerExampleViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/ModalViewControllerExample" normal i386
-cGenerateDSYMFile "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app.dSYM" "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/ModalViewControllerExample"
-cTouch "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app"
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
-c000000004C6C30170000000000000110
-t1282158615
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004C5A4DB60000000000295900
-t1280986550
-s2709760
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004C5A4DB0000000000029D580
-t1280986544
-s2741632
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004C5A4DA10000000000001466
-t1280986529
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004C6241ED00000000000009CD
-t1281507821
-s2509
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004C6242840000000001E228C0
-t1281507972
-s31598784
-
-N/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/Classes/ModalViewControllerExampleAppDelegate.h
-c000000004C9962B3000000000000024D
-t1285120691
-s589
-i<UIKit/UIKit.h>
-
-N/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/Classes/ModalViewControllerExampleAppDelegate.m
-c000000004C9962B30000000000000AE6
-t1285120691
-s2790
-i"ModalViewControllerExampleAppDelegate.h"
-i"ModalViewControllerExampleViewController.h"
-
-N/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/Classes/ModalViewControllerExampleViewController.h
-c000000004C9962B30000000000000123
-t1285120691
-s291
-i<UIKit/UIKit.h>
-
-N/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/Classes/ModalViewControllerExampleViewController.m
-c000000004C9962B30000000000000601
-t1285120691
-s1537
-i"ModalViewControllerExampleViewController.h"
-
-N/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/MainWindow.xib
-c000000004C9962B30000000000004F0D
-t1285120691
-s20237
-
-N/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/ModalViewControllerExampleViewController.xib
-c000000004C9962B30000000000001A91
-t1285120691
-s6801
-
-N/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/ModalViewControllerExample_Prefix.pch
-c000000004C9962B300000000000000DD
-t1285120691
-s221
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app
-t1285120746
-s238
-
-N/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app.dSYM
-t1285120746
-s102
-
-N/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/Info.plist
-t1285120743
-s673
-
-N/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/MainWindow.nib
-t1285120743
-s1719
-
-N/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/ModalViewControllerExample
-t1285120746
-s18180
-
-N/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/ModalViewControllerExampleViewController.nib
-t1285120743
-s1269
-
-N/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/PkgInfo
-t1285120743
-s8
-
-N/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/Objects-normal/i386/ModalViewControllerExample.LinkFileList
-c000000004C9962E70000000000000264
-t1285120743
-s612
-
-N/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/Objects-normal/i386/ModalViewControllerExampleAppDelegate.o
-t1285120745
-s48912
-
-N/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/Objects-normal/i386/ModalViewControllerExampleViewController.o
-t1285120745
-s34892
-
-N/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/Objects-normal/i386/main.o
-t1285120745
-s6344
-
-N/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/main.m
-c000000004C9962B30000000000000178
-t1285120691
-s376
-i<UIKit/UIKit.h>
-
-N/var/folders/Cf/Cfei18bhGm0FSyGBKg3EvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ModalViewControllerExample_Prefix-cjtvzdgfthrbtjekxkkkivntjarm/ModalViewControllerExample_Prefix.pch.gch
-t1285120745
-s15211536
-
-NModalViewControllerExample-Info.plist
-c000000004C9962B3000000000000038D
-t1285120691
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies306813543#306813543#0(0"0(0#1#0"8617067584#0"0#
-
-CCompileC build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/Objects-normal/i386/ModalViewControllerExampleAppDelegate.o "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/Classes/ModalViewControllerExampleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s306813545.517172
-e306813545.682884
-r1
-xCompileC
-xbuild/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/Objects-normal/i386/ModalViewControllerExampleAppDelegate.o
-x/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/Classes/ModalViewControllerExampleAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@115"Compile /Users/cmotl/Projects/New iPhone/ModalViewControllerExample/Classes/ModalViewControllerExampleAppDelegate.m306813545#306813545#0(0"0(0#0#107"/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/Classes/ModalViewControllerExampleAppDelegate.m8617906848#2621"    cd "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/ModalViewControllerExample-generated-files.hmap" "-I/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/ModalViewControllerExample-own-target-headers.hmap" "-I/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/ModalViewControllerExample-all-target-headers.hmap" -iquote "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/ModalViewControllerExample-project-headers.hmap" "-F/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator" "-I/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/include" "-I/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/DerivedSources/i386" "-I/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/DerivedSources" -include /var/folders/Cf/Cfei18bhGm0FSyGBKg3EvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ModalViewControllerExample_Prefix-cjtvzdgfthrbtjekxkkkivntjarm/ModalViewControllerExample_Prefix.pch -c "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/Classes/ModalViewControllerExampleAppDelegate.m" -o "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/Objects-normal/i386/ModalViewControllerExampleAppDelegate.o"0#
-
-CCompileC build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/Objects-normal/i386/ModalViewControllerExampleViewController.o "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/Classes/ModalViewControllerExampleViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s306813545.518295
-e306813545.682639
-r1
-xCompileC
-xbuild/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/Objects-normal/i386/ModalViewControllerExampleViewController.o
-x/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/Classes/ModalViewControllerExampleViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@118"Compile /Users/cmotl/Projects/New iPhone/ModalViewControllerExample/Classes/ModalViewControllerExampleViewController.m306813545#306813545#0(0"0(0#0#110"/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/Classes/ModalViewControllerExampleViewController.m8615608288#2627"    cd "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/ModalViewControllerExample-generated-files.hmap" "-I/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/ModalViewControllerExample-own-target-headers.hmap" "-I/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/ModalViewControllerExample-all-target-headers.hmap" -iquote "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/ModalViewControllerExample-project-headers.hmap" "-F/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator" "-I/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/include" "-I/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/DerivedSources/i386" "-I/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/DerivedSources" -include /var/folders/Cf/Cfei18bhGm0FSyGBKg3EvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ModalViewControllerExample_Prefix-cjtvzdgfthrbtjekxkkkivntjarm/ModalViewControllerExample_Prefix.pch -c "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/Classes/ModalViewControllerExampleViewController.m" -o "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/Objects-normal/i386/ModalViewControllerExampleViewController.o"0#
-
-CCompileC build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/Objects-normal/i386/main.o "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s306813545.515886
-e306813545.681811
-r1
-xCompileC
-xbuild/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/Objects-normal/i386/main.o
-x/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@74"Compile /Users/cmotl/Projects/New iPhone/ModalViewControllerExample/main.m306813545#306813545#0(0"0(0#0#66"/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/main.m8615445856#2547"    cd "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/ModalViewControllerExample-generated-files.hmap" "-I/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/ModalViewControllerExample-own-target-headers.hmap" "-I/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/ModalViewControllerExample-all-target-headers.hmap" -iquote "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/ModalViewControllerExample-project-headers.hmap" "-F/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator" "-I/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/include" "-I/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/DerivedSources/i386" "-I/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/DerivedSources" -include /var/folders/Cf/Cfei18bhGm0FSyGBKg3EvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ModalViewControllerExample_Prefix-cjtvzdgfthrbtjekxkkkivntjarm/ModalViewControllerExample_Prefix.pch -c "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/main.m" -o "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/Objects-normal/i386/main.o"0#
-
-CCompileXIB "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/MainWindow.xib"
-s306813543.170329
-e306813543.633537
-r1
-xCompileXIB
-x/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib306813543#306813543#0(0"0(0#0#74"/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/MainWindow.xib8603643520#658"    cd "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/MainWindow.nib" "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
-
-CCompileXIB "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/ModalViewControllerExampleViewController.xib"
-s306813543.231413
-e306813543.633257
-r1
-xCompileXIB
-x/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/ModalViewControllerExampleViewController.xib
-lSLF07#2@55"CompileXIB ModalViewControllerExampleViewController.xib306813543#306813543#0(0"0(0#0#104"/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/ModalViewControllerExampleViewController.xib8606807328#718"    cd "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/ModalViewControllerExampleViewController.nib" "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/ModalViewControllerExampleViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
-
-CGenerateDSYMFile "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app.dSYM" "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/ModalViewControllerExample"
-s306813546.082147
-e306813546.139275
-r1
-xGenerateDSYMFile
-x/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app.dSYM
-x/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/ModalViewControllerExample
-lSLF07#2@166"GenerateDSYMFile build/Debug-iphonesimulator/ModalViewControllerExample.app.dSYM build/Debug-iphonesimulator/ModalViewControllerExample.app/ModalViewControllerExample306813546#306813546#0(0"0(0#0#145"/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/ModalViewControllerExample8612983648#509"    cd "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/ModalViewControllerExample" -o "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app.dSYM"0#
-
-CLd "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/ModalViewControllerExample" normal i386
-s306813545.682972
-e306813546.082054
-r1
-xLd
-x/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/ModalViewControllerExample
-xnormal
-xi386
-lSLF07#2@150"Link /Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/ModalViewControllerExample306813545#306813546#0(0"0(0#0#0"8613460256#1110"    cd "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator" "-F/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator" -filelist "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/Objects-normal/i386/ModalViewControllerExample.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/ModalViewControllerExample"0#
-
-CProcessInfoPlistFile "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/Info.plist" ModalViewControllerExample-Info.plist
-s306813543.166022
-e306813543.170203
-r1
-xProcessInfoPlistFile
-x/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/Info.plist
-xModalViewControllerExample-Info.plist
-lSLF07#2@45"Process ModalViewControllerExample-Info.plist306813543#306813543#0(0"0(0#0#97"/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/ModalViewControllerExample-Info.plist8604538144#605"    cd "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ModalViewControllerExample-Info.plist -genpkginfo "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app/Info.plist"0#
-
-CProcessPCH /var/folders/Cf/Cfei18bhGm0FSyGBKg3EvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ModalViewControllerExample_Prefix-cjtvzdgfthrbtjekxkkkivntjarm/ModalViewControllerExample_Prefix.pch.gch ModalViewControllerExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s306813543.633658
-e306813545.515646
-r1
-xProcessPCH
-x/var/folders/Cf/Cfei18bhGm0FSyGBKg3EvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ModalViewControllerExample_Prefix-cjtvzdgfthrbtjekxkkkivntjarm/ModalViewControllerExample_Prefix.pch.gch
-xModalViewControllerExample_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@48"Precompile ModalViewControllerExample_Prefix.pch306813543#306813545#0(0"0(0#0#97"/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/ModalViewControllerExample_Prefix.pch8617026240#2397"    cd "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/ModalViewControllerExample-generated-files.hmap" "-I/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/ModalViewControllerExample-own-target-headers.hmap" "-I/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/ModalViewControllerExample-all-target-headers.hmap" -iquote "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/ModalViewControllerExample-project-headers.hmap" "-F/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator" "-I/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/include" "-I/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/DerivedSources/i386" "-I/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/ModalViewControllerExample.build/Debug-iphonesimulator/ModalViewControllerExample.build/DerivedSources" -c "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/ModalViewControllerExample_Prefix.pch" -o /var/folders/Cf/Cfei18bhGm0FSyGBKg3EvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ModalViewControllerExample_Prefix-cjtvzdgfthrbtjekxkkkivntjarm/ModalViewControllerExample_Prefix.pch.gch0#
-
-CTouch "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app"
-s306813546.139396
-e306813546.335471
-r1
-xTouch
-x/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app
-lSLF07#2@124"Touch /Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app306813546#306813546#0(0"0(0#0#0"8607004096#343"    cd "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/cmotl/Projects/New iPhone/ModalViewControllerExample/build/Debug-iphonesimulator/ModalViewControllerExample.app"0#
-
