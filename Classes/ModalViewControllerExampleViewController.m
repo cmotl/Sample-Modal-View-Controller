@@ -20,8 +20,6 @@
 	[self presentModalViewController:addController animated:YES];
 	
 	// The navigation controller is now owned by the current view controller
-	// and the root view controller is owned by the navigation controller,
-	// so both objects should be released to prevent over-retention.
 	[addController release];
 }
 

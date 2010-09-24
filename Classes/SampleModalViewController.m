@@ -66,6 +66,9 @@
 
 
 - (void)dealloc {
+	[delegate release], delegate = nil;
+	[saveButton release], saveButton = nil;
+	[cancelButton release], cancelButton = nil;
     [super dealloc];
 }
 
