@@ -17,7 +17,7 @@
 
 @property (nonatomic, retain) IBOutlet UIButton *saveButton;
 @property (nonatomic, retain) IBOutlet UIButton *cancelButton;
-@property (nonatomic, retain) id <SampleModalViewControllerDelegate> delegate;
+@property (nonatomic, assign) id <SampleModalViewControllerDelegate> delegate;
 
 -(IBAction) save;
 -(IBAction) cancel;
