@@ -20,14 +20,13 @@
 	[self presentModalViewController:addController animated:YES];
 	
 	// The navigation controller is now owned by the current view controller
-	[addController release];
 }
 
 - (void) sampleModalViewControllerDidCancel:(SampleModalViewController *)viewController {
 
 	[self dismissModalViewControllerAnimated:YES];
 	
-	UIAlertView *alert = [[[UIAlertView alloc] initWithTitle:@"Cancelled" message:@"Cancelled" delegate:self cancelButtonTitle:@"Cancel" otherButtonTitles:nil] autorelease];
+	UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Cancelled" message:@"Cancelled" delegate:self cancelButtonTitle:@"Cancel" otherButtonTitles:nil];
     // optional - add more buttons:
     [alert addButtonWithTitle:@"Yes"];
     [alert show];
@@ -37,7 +36,7 @@
 	
 	[self dismissModalViewControllerAnimated:YES];
 	
-	UIAlertView *alert = [[[UIAlertView alloc] initWithTitle:@"Finished" message:@"Finished" delegate:self cancelButtonTitle:@"Cancel" otherButtonTitles:nil] autorelease];
+	UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Finished" message:@"Finished" delegate:self cancelButtonTitle:@"Cancel" otherButtonTitles:nil];
     // optional - add more buttons:
     [alert addButtonWithTitle:@"Yes"];
     [alert show];
@@ -90,8 +89,5 @@
 }
 
 
-- (void)dealloc {
-    [super dealloc];
-}
 
 @end

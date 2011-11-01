@@ -66,9 +66,8 @@
 
 
 - (void)dealloc {
-	[saveButton release], saveButton = nil;
-	[cancelButton release], cancelButton = nil;
-    [super dealloc];
+	saveButton = nil;
+	cancelButton = nil;
 }
 
 

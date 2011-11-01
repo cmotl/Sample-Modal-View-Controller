@@ -12,12 +12,12 @@
 @interface SampleModalViewController : UIViewController {
 	UIButton *saveButton;
 	UIButton *cancelButton;
-	id <SampleModalViewControllerDelegate> delegate;
+	id <SampleModalViewControllerDelegate> __unsafe_unretained delegate;
 }
 
-@property (nonatomic, retain) IBOutlet UIButton *saveButton;
-@property (nonatomic, retain) IBOutlet UIButton *cancelButton;
-@property (nonatomic, assign) id <SampleModalViewControllerDelegate> delegate;
+@property (nonatomic, strong) IBOutlet UIButton *saveButton;
+@property (nonatomic, strong) IBOutlet UIButton *cancelButton;
+@property (nonatomic, unsafe_unretained) id <SampleModalViewControllerDelegate> delegate;
 
 -(IBAction) save;
 -(IBAction) cancel;
